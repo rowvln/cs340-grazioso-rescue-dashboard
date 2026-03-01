@@ -123,6 +123,8 @@ The `aac` database must contain the `animals` collection with the modified Austi
 ```bash
 pip install pymongo dash dash-leaflet pandas plotly
 
+---
+
 ## Launch the Application
 
 1. Open `ProjectTwoDashboard.ipynb`  
@@ -135,4 +137,5 @@ pip install pymongo dash dash-leaflet pandas plotly
 
 Rowvin Dizon  
 CS 340 – Client/Server Development  
+
 Southern New Hampshire University
